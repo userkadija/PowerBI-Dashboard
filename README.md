@@ -57,4 +57,4 @@ Insight generation from real-world datasets
 Interactive reporting using Power BI
 
 📸 Dashboard Preview
-
+<img src="Dashboard.png" width="700"/>
