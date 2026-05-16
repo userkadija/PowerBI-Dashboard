@@ -55,3 +55,6 @@ Dashboard design
 Insight generation from real-world datasets
 
 Interactive reporting using Power BI
+
+📸 Dashboard Preview
+
